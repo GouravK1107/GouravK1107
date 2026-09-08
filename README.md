@@ -60,7 +60,7 @@
       <b>📓 <a href="https://github.com/GouravK1107/notenook">NoteNook</a></b> — Notes Management App<br/>
       <sub>Python · Django · PostgreSQL/SQLite · Gunicorn · WhiteNoise</sub><br/><br/>
       Full-featured notes app with categories, favorites, real-time search and secure user-specific notes. AJAX-powered UI with dark/light mode, deployed in production on Render.<br/><br/>
-      🔗 <a href="https://notenook-yuaf.onrender.com/">Live Demo</a>
+      🔗 <a>It was hosted, but now it is temporarily unavailable.</a>
     </td>
     <td width="50%">
       <b>⏱️ <a href="https://github.com/GouravK1107/sessiontrack">SessionTrack</a></b> — Focus & Productivity Analytics<br/>
