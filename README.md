@@ -86,7 +86,7 @@
 ### 🤝 Connect with me
 
 <p align="center">
-  📍 Hospet, Karnataka, India &nbsp;|&nbsp;
+  📍 Bengaluru, Karnataka, India &nbsp;|&nbsp;
   ✉️ <a href="mailto:gkprof1107@gmail.com">gkprof1107@gmail.com</a> &nbsp;|&nbsp;
   💼 <a href="https://www.linkedin.com/in/gourav-kumar-r/">LinkedIn</a> &nbsp;|&nbsp;
   🌐 <a href="https://gouravk1107.github.io/my-portfolio/">Portfolio</a>
